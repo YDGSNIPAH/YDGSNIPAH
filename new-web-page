@@ -1,0 +1,13 @@
+<html>
+<style>
+background-color:rbg(0,0,255);
+#1ST{
+  font-family:fantasy;
+  font-color:black;
+}
+</style>
+
+  <body>
+<h1 id="1ST">My First Web Page</h2>
+</body>
+</html>
