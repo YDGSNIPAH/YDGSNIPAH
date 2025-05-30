@@ -1,9 +1,13 @@
 <html>
 <style>
+body{
+  color:yellow;
+}
 background-color:rbg(0,0,255);
 #1ST{
   font-family:fantasy;
   font-color:black;
+  font-size:50px;
 }
 </style>
 
